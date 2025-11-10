@@ -40,3 +40,9 @@ O sistema simula uma hamburgueria virtual, onde o usuário pode visualizar produ
     <li>Docker — Containerização da aplicação</li>
     <li>Node.js</li>
 </ul>
+
+https://github.com/user-attachments/assets/9c2f03f8-e9dc-458a-acce-97dda075fe6f
+
+
+https://github.com/user-attachments/assets/9a16051d-54f6-4430-85da-3f8c2533121c
+
