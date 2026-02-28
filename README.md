@@ -38,7 +38,6 @@ O sistema simula uma hamburgueria virtual, onde o usuário pode visualizar produ
     <li>Bcrypt — Criptografia de senhas</li>
     <li>Multer — Upload de imagens</li>
     <li>Docker — Containerização da aplicação</li>
-    <li>Node.js</li>
 </ul>
 
 https://github.com/user-attachments/assets/9c2f03f8-e9dc-458a-acce-97dda075fe6f
